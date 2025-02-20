@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import os
 import time
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 import numpy as np
 from io import BytesIO
 
